@@ -9,31 +9,20 @@ body{
     text-align: center;
     margin: auto;
     width: 100%;
-    max-width: 400px;
+    max-width: 800px;
     padding: 4.5em 3em;
     border-radius: 10px;
     box-shadow: 0 5px 10px --5px rgb(0, 0, 0/ 30%);
 }
 form{
-background-color: #fff;
+background-color:rgba(34, 233, 216, 0.577);
 margin: auto;
 width: 100%;
-max-width: 400px;
+max-width: 600px;
 padding: 4.5em 3em;
 border-radius: 10px;
 box-shadow: 0 5px 10px --5px rgb(0, 0, 0/ 30%);
 text-align: center;
 }
 
-.form_name{
-    font-weight: 100;
-    font-size: 1rem;
-    padding: .5em 0;
-    border: rgba(183, 19, 183, 0.807);
-    border-radius: .5em;
-    margin-top: 9em;
-    display: grid;
-    gap: 1.0em;
-    margin:auto;
-}
 
