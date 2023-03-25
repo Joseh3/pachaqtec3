@@ -34,15 +34,3 @@ text-align: center;
     margin:auto;
     text-align:left;
     }
-.form_email{
-        font-weight: 100;
-        font-size: 1rem;
-        padding: .5em 0;
-        border: rgba(183, 19, 183, 0.807);
-        border-radius: .5em;
-        margin-top: 2em;
-        display: grid;
-        gap: 1.0em;
-        margin:auto;
-        text-align:left;
-}
