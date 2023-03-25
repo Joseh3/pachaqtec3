@@ -28,8 +28,9 @@ text-align: center;
     padding: .5em 0;
     border: rgba(183, 19, 183, 0.807);
     border-radius: .5em;
-    border-color: [ <rgba(183, 19, 183, 0.807)> || transparent ]{1,4} | inherit;
     margin-top: 2em;
     display: grid;
     gap: 1.0em;
+    margin:auto;
+    text-align:left;
     }
